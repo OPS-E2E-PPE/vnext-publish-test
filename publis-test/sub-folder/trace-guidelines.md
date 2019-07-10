@@ -88,11 +88,11 @@ Application Insight has been merged into TraceEx from version 2.0.5. It is fully
 
 1. Add package source capsnugetserver to Package Sources
 
-    ![Add capsnugetserver to Package Sources](./images/add_package_source.png)
+    ![Add capsnugetserver to Package Sources](../images/add_package_source.png)
 
 2. Install System.Diagnostics.TraceEx (Take version #2.0.6 as an example here)
 
-    ![Install System.Diagnostics.TraceEx to project](./images/Install_TraceEx.png)
+    ![Install System.Diagnostics.TraceEx to project](../images/Install_TraceEx.png)
 
 3. Code snippets for using TraceEx
 
@@ -231,7 +231,7 @@ Application Insight has been merged into TraceEx from version 2.0.5. It is fully
 
 1. Update System.Diagnostics.TraceEx from the current version to the latest stable version.
 
-    ![Update TraceEx from the current version to latest version](./images/Update_TraceEx.png)
+    ![Update TraceEx from the current version to latest version](../images/Update_TraceEx.png)
 
 2. Initialize TraceEx before using
 
@@ -304,7 +304,7 @@ Samples:
 
     ```
 
-    ![Query traces with severityLevel == 0](./images/Query_Sample_SeverityLevel.png)
+    ![Query traces with severityLevel == 0](../images/Query_Sample_SeverityLevel.png)
 
 * Query performance scope traces in last 24 hours
 
@@ -315,13 +315,13 @@ Samples:
 
     ```
 
-    ![Query performance scope traces in last 24 hours](./images/Query_Sample_Performance.png)
+    ![Query performance scope traces in last 24 hours](../images/Query_Sample_Performance.png)
 
 * Store queries
 
     Store frequently used queris into 'My Queries' and 'Shared Queries'. You can find them from the QUERY EXPLORER at the top-right corner in Application Analyzer.
 
-    ![Query explore](./images/Query_Explore.png)
+    ![Query explore](../images/Query_Explore.png)
 
 * Explore exceptions
 
