@@ -49,7 +49,7 @@ With this lens we work to ensure that the spec covers the totality of user flow 
 
 ### Web Basics
 
-Web Basics is all about including all of the things we need in a spec that is describing a web site. These are small things that are often forgotten when talking about the big picture of a feature. [!include[Hello](./not_existed.md)]
+Web Basics is all about including all of the things we need in a spec that is describing a web site. These are small things that are often forgotten when talking about the big picture of a feature.
 
 * If this spec covers new pages, what are their URLs?
 * Does this feature require something that breaks our design guide like a popup?
