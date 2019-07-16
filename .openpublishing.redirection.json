@@ -8,6 +8,6 @@
     {
         "source_path": "publis-test/juchen-test2.md",
         "redirect_url": "/vnext-publish/security-guidelines",
-        "redirect_document_id": true
+        "redirect_document_id": false
     }]
 }
