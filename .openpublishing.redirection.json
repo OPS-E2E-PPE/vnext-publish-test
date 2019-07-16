@@ -1,0 +1,13 @@
+{
+    "redirections": [
+    {
+        "source_path": "publis-test/juchen-test1.md",
+        "redirect_url": "https://ppe.docs.microsoft.com/vnext-publish/azure-development-guidelines",
+        "redirect_document_id": true
+    },
+    {
+        "source_path": "publis-test/juchen-test2.md",
+        "redirect_url": "/vnext-publish/dotnet-development-guidelines",
+        "redirect_document_id": false
+    }]
+}
