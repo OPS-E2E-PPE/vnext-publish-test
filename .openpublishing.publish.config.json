@@ -36,6 +36,6 @@
     "mode": "impact"
   },
   "feature_flags": {
-    "enable_publish_pipeline": true
+    "enable_publish_pipeline": false
   }
 }
