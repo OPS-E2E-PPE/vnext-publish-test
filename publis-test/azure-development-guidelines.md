@@ -1,5 +1,5 @@
 ---
-title: Azure Development Guidelines
+title: Update Azure Development Guidelines
 description: Rules and suggestions for developing services on Azure for APEX
 ---
 # Azure Development Guidelines
